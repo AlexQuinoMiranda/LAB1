@@ -1,6 +1,6 @@
 def mostrar_menu():
     print("\nMenú:")
-    print("1. Agregar Tarea")
+    print("1. Agregar Tareas")
     print("2. Marcar Tarea como Completada")
     print("3. Eliminar Tarea")
     print("4. Ver Tareas Pendientes.")
