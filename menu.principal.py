@@ -70,7 +70,7 @@ def main():
     lista_de_tareas = ListaDeTareas()
 
     nombre_archivo = "tareas.pickle"
-    print(f"Las tareas se guardan en el archivo: {nombre_archivo}")
+    print(f"Las tareas se guarda en el archivo: {nombre_archivo}")
 
     # Cargar tareas desde el archivo si existe
     lista_de_tareas.cargar_desde_archivo(nombre_archivo)
